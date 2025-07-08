@@ -34,14 +34,16 @@ header{
 background-repeat: no-repeat;
 background-size: cover;
     background-position: center;
-    width: 100%;
+    width: auto;
     
 }
 .hero-6{
     margin: 0;
 }
 .hero{
-    margin-top: 50px 140px;
+    margin: 50px 30px;
+    border-radius: 16px;
+   
 }
 
 .dis_img{
@@ -87,14 +89,18 @@ color: white;
 display: flex;
 text-align: center;
 flex-direction: column;
-justify-content: center;
+justify-content: flex;
 margin-top: 30px;
 padding: 0;
 
 }
 .vector_2{
     font-size: 18px;
+    width: 600px;
+    margin: 0 auto;
+ 
 }
+
 .join-btn{
     font-size:20px;
     color: white;
@@ -103,7 +109,6 @@ padding: 0;
     font-size: 20px;
     text-decoration: none;
     color: white;
-
 }
 .midnight-section {
     margin-top: 30px;
@@ -133,12 +138,14 @@ margin-bottom: 10px;
 
 }
 .event-time{
-    background-color:#ae3e3e97 ;
+    background-color:#eabbbbe6 ;
    font-size: 32px;
    font-weight: 600px;
    margin: 0px 70px;
+   border-radius: 16px;
+   padding: 50px;
 }
-section{
+.center{
     align-items: center;
     text-align: center;
 }
@@ -155,3 +162,93 @@ section{
     border: none;
     border-radius: 8px;
     }
+.middle-1 {
+    color: #FF0000;
+    font-size: 24px;
+}
+.middle-2{
+    color: black;
+    font-size: 48px;
+
+}
+.middle-3{
+    font-size: 20px;
+    color: #070211;
+}
+.img0{
+    height: 463px;
+    width: 463px;
+    }
+    .middle {
+        display: flex;
+        margin: 0px 140px ;
+        justify-content: space-around;
+        margin: 120px 140px;
+    }
+    .middle0{
+        height: 262px;
+        width: 393px;
+    }
+    .middle-3{
+ height: 250px;
+
+        width: 300px;
+        margin: 0 auto;
+    }
+    .mid33{
+        height: 140px;
+        width: 140px;
+        
+    }
+    .year{
+        color: #FF0000;
+        font-size: 48px;
+    }
+    .org{
+        gap: 0px;
+        
+    }
+    .lastc{
+        margin-bottom: 0;
+    }
+    .second{
+        padding: 50px;
+    }
+   .bottom{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+line-height: 1.5;
+height:987px ;
+width: 1320px;
+border: 2px;
+   }
+   .bot-1{
+    color: #070211;
+    font-size: 24px;
+   }
+   .bot-2{
+font-size: 72px;
+color: #070211;
+   }
+   .five{
+    color: #FF0000;
+   }
+   .bot-3{
+margin: 0;
+ line-height: 1.5em;
+}
+.one{
+    width: 600px;
+text-align: center;
+align-items: center;
+margin: 0 auto;
+}
+.imgone{
+    height: 180px;
+    width: 1200px;
+}
+.imgtwo{
+ overflow: visible;
+ transform: translate(-50px, 200px);
+}
