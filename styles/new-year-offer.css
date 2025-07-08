@@ -1,0 +1,157 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+
+ 
+.hero_1 {
+    height: 632px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center; /* vertically center */
+    align-items: center;     /* horizontally center */
+    color: white;
+    text-align: center;
+    gap: 10px; /* controls distance between texts */
+}
+
+.hero_3 {
+    font-size: 32px;
+    margin: 0;
+}
+
+.hero_5 {
+    font-size: 72px;
+    margin: 0;
+}
+
+header{
+    background-image: url(/images/Banner\ Image.png);
+background-repeat: no-repeat;
+background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+}
+.hero-6{
+    margin: 0;
+}
+.hero{
+    margin-top: 50px 140px;
+}
+
+.dis_img{
+    width: 800px;
+    height: 400px;
+}
+.dis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dis_3{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+}
+.dis_5{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 400;
+}
+.dis_6{
+    color: black;
+    font-weight: bold;
+    font-size: 48px;
+}
+.vector{
+    margin: 60px 70px;
+
+}
+
+.vector_1{
+    background-image: url(/images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    background-size: cover;
+}
+.vector_1{
+font-size: 64px;
+color: white;
+display: flex;
+text-align: center;
+flex-direction: column;
+justify-content: center;
+margin-top: 30px;
+padding: 0;
+
+}
+.vector_2{
+    font-size: 18px;
+}
+.join-btn{
+    font-size:20px;
+    color: white;
+}
+.btn{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+
+}
+.midnight-section {
+    margin-top: 30px;
+}
+.midnight-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+.midnight-image{
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+}
+.midnight-text h2{
+font-size: 36px;
+font-weight: bold;
+line-height: 1.2;
+margin-bottom: 10px;
+
+}
+.midnight-text p {
+    font-size: 16px;
+    margin-bottom: 15px;
+    max-width: 600px;
+
+}
+.event-time{
+    background-color:#ae3e3e97 ;
+   font-size: 32px;
+   font-weight: 600px;
+   margin: 0px 70px;
+}
+section{
+    align-items: center;
+    text-align: center;
+}
+.place{
+    color: red;
+}
+.black{
+    color: black;
+}
+.btn-j{
+    background-color: #FF0000;
+    color: white;
+    padding: 16px;
+    border: none;
+    border-radius: 8px;
+    }
